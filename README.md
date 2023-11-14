@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keningtown&show_icons=true&locale=en" alt="keningtown" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kenintown&" alt="kenintown" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keningtown&" alt="kenintown" /></p>
